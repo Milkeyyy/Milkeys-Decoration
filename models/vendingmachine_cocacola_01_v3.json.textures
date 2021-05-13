@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Side": "cocacola_logo_90x90_128",
+        "Front": "vendingmachine_front_red_v2_144x144",
+        "Back": "vendingmachine_cocacola_01_back",
+        "Up_Down": "vendingmachine_cocacola_01"
+      },
+      "name": "default"
+    }
+  }
+}

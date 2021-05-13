@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "milkeysdecoration:block/streetlight_on"
+    },
+    "facing=east": {
+      "model": "milkeysdecoration:block/streetlight_on",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "milkeysdecoration:block/streetlight_on",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "milkeysdecoration:block/streetlight_on",
+      "y": 270
+    }
+  }
+}

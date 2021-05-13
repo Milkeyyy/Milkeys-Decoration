@@ -1,0 +1,22 @@
+{
+  "group": "milkeysdecorate",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:dyes"
+    },
+    "1": {
+      "tag": "minecraft:planks"
+    },
+    "2": {
+      "tag": "forge:dyes"
+    }
+  },
+  "result": {
+    "item": "milkeysdecorate:colorblock",
+    "count": 2
+  }
+}

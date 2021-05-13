@@ -1,0 +1,10 @@
+{
+  "parent": "milkeysdecoration:custom/cardboard_01_v2",
+  "textures": {
+    "all": "milkeysdecoration:blocks/cardboard_01_top",
+    "particle": "milkeysdecoration:blocks/cardboard_01_top",
+    "cardboard_01_top_2": "milkeysdecoration:blocks/cardboard_01_top_2",
+    "cardboard_01_top": "milkeysdecoration:blocks/cardboard_01_top",
+    "cardboard_01": "milkeysdecoration:blocks/cardboard_01"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "road_block_sidewalk_01": "road_block_sidewalk_01_v3",
+        "road_block_sidewalk_02": "road_block_sidewalk_01_side_02",
+        "road_block_01": "road_block_01"
+      },
+      "name": "default"
+    }
+  }
+}

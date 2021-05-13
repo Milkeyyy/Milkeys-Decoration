@@ -1,0 +1,10 @@
+{
+  "parent": "milkeysdecoration:custom/roadsign_tomare_01",
+  "textures": {
+    "all": "milkeysdecoration:blocks/roadsign_tomare_x64_01",
+    "particle": "milkeysdecoration:blocks/roadsign_tomare_x64_01",
+    "roadsign_pole_back_jp_02": "milkeysdecoration:blocks/roadsign_pole_back_jp_02",
+    "roadsign_pole_01": "milkeysdecoration:blocks/roadsign_pole_01",
+    "roadsign_tomare_x64_01": "milkeysdecoration:blocks/roadsign_tomare_x64_01"
+  }
+}

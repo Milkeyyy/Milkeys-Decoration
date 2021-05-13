@@ -1,0 +1,10 @@
+{
+  "parent": "milkeysdecoration:custom/tenji_panel_01_v3",
+  "textures": {
+    "all": "milkeysdecoration:blocks/tenjipanel_01-x32_v2",
+    "particle": "milkeysdecoration:blocks/tenjipanel_01-x32_v2",
+    "tenji_02_side": "milkeysdecoration:blocks/tenji_01_side",
+    "tenji_01_side": "milkeysdecoration:blocks/tenji_02_side",
+    "tenji_g_side": "milkeysdecoration:blocks/tenji_g_side"
+  }
+}

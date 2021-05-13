@@ -1,0 +1,10 @@
+{
+  "parent": "milkeysdecoration:custom/roadsign_stop_07",
+  "textures": {
+    "all": "milkeysdecoration:blocks/roadsign_stop_circle_x32_02_v2",
+    "particle": "milkeysdecoration:blocks/roadsign_stop_circle_x32_02_v2",
+    "roadsign_pole_back_02": "milkeysdecoration:blocks/roadsign_pole_back_02",
+    "roadsign_pole_01": "milkeysdecoration:blocks/roadsign_pole_01",
+    "roadsign_stop_circle_x32_02_v2": "milkeysdecoration:blocks/roadsign_stop_circle_x32_02_v2"
+  }
+}

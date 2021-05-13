@@ -1,0 +1,3760 @@
+{
+  "id_map": {
+    "GUI": 4
+  },
+  "mod_elements": [
+    {
+      "name": "Alphabetblocktab",
+      "type": "tab",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Ablock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CBlock",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DBlock",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EBlock",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FBlock",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GBlock",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HBlock",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "IBlock",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "JBlock",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "KBlock",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LBlock",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MBlock",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "NBlock",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "OBlock",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PBlock",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "QBlock",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RBlock",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SBlock",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TBlock",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UBlock",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "VBlock",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "WBlock",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "XBlock",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "YBlock",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ZBlock",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ExclamationBlock",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "QuestionBlock",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HyphenBlock",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PeriodLBlock",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PeriodRBlock",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EqualBlock",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SpaceBlock",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Alphabetlogo",
+      "type": "item",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AlphabetBlock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Alphabetblockgui",
+      "type": "gui",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 1
+      }
+    },
+    {
+      "name": "AlphabetblockguiAblock",
+      "type": "procedure",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiBblock",
+      "type": "procedure",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiCblock",
+      "type": "procedure",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiDblock",
+      "type": "procedure",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiEblock",
+      "type": "procedure",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiFblock",
+      "type": "procedure",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiGblock",
+      "type": "procedure",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiHblock",
+      "type": "procedure",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiIblock",
+      "type": "procedure",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiJblock",
+      "type": "procedure",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiKblock",
+      "type": "procedure",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiLblock",
+      "type": "procedure",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiMblock",
+      "type": "procedure",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiNblock",
+      "type": "procedure",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiOblock",
+      "type": "procedure",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiPblock",
+      "type": "procedure",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiQblock",
+      "type": "procedure",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiRblock",
+      "type": "procedure",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiSblock",
+      "type": "procedure",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiTblock",
+      "type": "procedure",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiUblock",
+      "type": "procedure",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiVblock",
+      "type": "procedure",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiWblock",
+      "type": "procedure",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiXblock",
+      "type": "procedure",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiYblock",
+      "type": "procedure",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiZblock",
+      "type": "procedure",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetBlockguiopen",
+      "type": "procedure",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiExclamationblock",
+      "type": "procedure",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiQuestionblock",
+      "type": "procedure",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiPeriodL",
+      "type": "procedure",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiPeriodR",
+      "type": "procedure",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiHyphenblock",
+      "type": "procedure",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiEqualblock",
+      "type": "procedure",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiSpaceblock",
+      "type": "procedure",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Zeroblock",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Oneblock",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Twoblock",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Threeblock",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Fourblock",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Fiveblock",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sixblock",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sevenblock",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Eightblock",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Nineblock",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AlphabetblockguiZeroblock",
+      "type": "procedure",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiOneblock",
+      "type": "procedure",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiTwoblock",
+      "type": "procedure",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiThreeblock",
+      "type": "procedure",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiFourblock",
+      "type": "procedure",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiFiveblock",
+      "type": "procedure",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiSixblock",
+      "type": "procedure",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiSevenblock",
+      "type": "procedure",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiEightblock",
+      "type": "procedure",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiNineblock",
+      "type": "procedure",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Parenthesis1_1leftblock",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Parenthesis1_1rightblock",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Parenthesis1_2leftblock",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Parenthesis1_2rightblock",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AlphabetblockguiParenthesis1_1",
+      "type": "procedure",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alphabetblockguiparenthesis1_1L",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiParenthesis1_1R",
+      "type": "procedure",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiParenthesis1_2L",
+      "type": "procedure",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiParenthesis1_2R",
+      "type": "procedure",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Parenthesis2_1leftblock",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Parenthesis2_1rightblock",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Parenthesis2_2leftblock",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Parenthesis2_2rightblock",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AlphabetblockguiParenthesis2_1L",
+      "type": "procedure",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiParenthesis2_1R",
+      "type": "procedure",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiParenthesis2_2L",
+      "type": "procedure",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguiParenthesis2_2R",
+      "type": "procedure",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CommaLBlock",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CommaRBlock",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AlphabetblockcommaL",
+      "type": "procedure",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alphabetblockguicommal",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlphabetblockguicommaR",
+      "type": "procedure",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Colorblockgui",
+      "type": "gui",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 2
+      }
+    },
+    {
+      "name": "Colorblock",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Colorblockguiopen",
+      "type": "procedure",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Colorblock00",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Colorblock01",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Colorblock02",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Colorblock03",
+      "type": "block",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Colorblock04",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Colorblock05",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Colorblock06",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Colorblock07",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Colorblock08",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Colorblock09",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Colorblock10",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Colorblock11",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Colorblock12",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Colorblock13",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Colorblock14",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Colorblock15",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Colorblockgui00",
+      "type": "procedure",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Colorblockgui01",
+      "type": "procedure",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Colorblockgui02",
+      "type": "procedure",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Colorblockgui03",
+      "type": "procedure",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Colorblockgui04",
+      "type": "procedure",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Colorblockgui05",
+      "type": "procedure",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Colorblockgui06",
+      "type": "procedure",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Colorblockgui07",
+      "type": "procedure",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Colorblockgui08",
+      "type": "procedure",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Colorblockgui09",
+      "type": "procedure",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Colorblockgui10",
+      "type": "procedure",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Colorblockgui11",
+      "type": "procedure",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Colorblockgui12",
+      "type": "procedure",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Colorblockgui13",
+      "type": "procedure",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Colorblockgui14",
+      "type": "procedure",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Colorblockgui15",
+      "type": "procedure",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Colorblockrecipe",
+      "type": "recipe",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Alphabetblockrecipe",
+      "type": "recipe",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Alphabetblockrecipe2",
+      "type": "recipe",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Brailleblock_01",
+      "type": "block",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Brailleblock_02",
+      "type": "block",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Braillepanel_01",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Braillepanel_02",
+      "type": "block",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Carpetfloor_block_01",
+      "type": "block",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Carpetfloor_block_02",
+      "type": "block",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Carpetfloor_block_03",
+      "type": "block",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Carpetfloor_block_04",
+      "type": "block",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Brailleblock_03",
+      "type": "block",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Braillepanel_03",
+      "type": "block",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Citydecotab",
+      "type": "tab",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Road_block_01",
+      "type": "block",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "road_block"
+    },
+    {
+      "name": "Road_block_02",
+      "type": "block",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Road_block_03",
+      "type": "block",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Road_block_04",
+      "type": "block",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sidewalk_block_01",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Road_block_slab_01",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Closeplayergui",
+      "type": "procedure",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Laptop_01",
+      "type": "block",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "laptop_close"
+    },
+    {
+      "name": "Laptop_02",
+      "type": "block",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "laptop_open"
+    },
+    {
+      "name": "Laptop01RightClicked",
+      "type": "procedure",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Laptop02RightClicked",
+      "type": "procedure",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Road_block_05",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "road_block_center_thick"
+    },
+    {
+      "name": "Sidewalk_block_02",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Road_block_02_2",
+      "type": "block",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Road_block_03_2",
+      "type": "block",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Road_block_side",
+      "type": "block",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Road_block_04_2",
+      "type": "block",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Road_sign_pole_01",
+      "type": "block",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Road_sign_stop_01",
+      "type": "block",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Road_sign_tomare_01",
+      "type": "block",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Road_block_center",
+      "type": "block",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Aeon_block_01",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aeon_block"
+    },
+    {
+      "name": "Cardboard_01",
+      "type": "block",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cardboard"
+    },
+    {
+      "name": "Guardrail_01",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "guardrail"
+    },
+    {
+      "name": "Streetlight_on",
+      "type": "block",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Streetlight_off",
+      "type": "block",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "StreetlightonRedstoneOff",
+      "type": "procedure",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StreetlightRedstoneOn",
+      "type": "procedure",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wipicon",
+      "type": "item",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wip_icon"
+    },
+    {
+      "name": "Wiptab",
+      "type": "tab",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Road_block_oblique_left",
+      "type": "block",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "road_block_oblique_center"
+    },
+    {
+      "name": "RoadBlockObliqueLeftDown",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "road_block_oblique_left"
+    },
+    {
+      "name": "RoadBlockObliqueRightDown",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "road_block_oblique_right"
+    },
+    {
+      "name": "Vendingmachine01",
+      "type": "block",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vendingmachine_01"
+    },
+    {
+      "name": "Vendingmachine02",
+      "type": "block",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vendingmachine_02"
+    },
+    {
+      "name": "Sidewalk_block_03",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Road_sign_pole_02",
+      "type": "block",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.milkeysdecorate.braillepanel_03": "Braille Panel 03",
+      "block.milkeysdecorate.braillepanel_02": "Braille Panel 02",
+      "item.milkeysdecorate.wipicon": "WIP ICON",
+      "block.milkeysdecoration.rblock": "R Block",
+      "block.milkeysdecorate.braillepanel_01": "Braille Panel 01",
+      "block.milkeysdecoration.road_block_oblique_center": "Road Block Oblique Center",
+      "block.milkeysdecoration.fiveblock": "5 Block",
+      "block.milkeysdecoration.aeon_block": "Aeon Block",
+      "tile.threeblock.name": "3 Block",
+      "tile.road_block_02_2.name": "Road Block 02-2",
+      "tile.qblock.name": "Q Block",
+      "block.milkeysdecoration.gblock": "G Block",
+      "tile.brailleblock_02.name": "Braille Block 02",
+      "block.milkeysdecoration.road_block_02_2": "Road Block 02-2",
+      "block.milkeysdecorate.road_block_03_2": "Road Block 03-2",
+      "block.milkeysdecorate.streetlight_on": "Streetlight",
+      "tile.cblock.name": "C Block",
+      "block.milkeysdecoration.road_block_side": "Road Block Side",
+      "tile.road_block_oblique_center.name": "Road Block Oblique Center",
+      "block.milkeysdecorate.gblock": "G Block",
+      "tile.bblock.name": "B Block",
+      "tile.alphabetblock.name": "Alphabet Block",
+      "tile.periodlblock.name": ".[Period] Block (Left)",
+      "block.milkeysdecorate.parenthesis2_2rightblock": "] Block (Right)",
+      "block.milkeysdecorate.road_sign_tomare_01": "Road sign Stop 01",
+      "block.milkeysdecorate.sixblock": "6 Block",
+      "block.milkeysdecoration.tblock": "T Block",
+      "tile.commalblock.name": ",[Comma] Block (Left)",
+      "block.milkeysdecoration.road_block": "Road Block",
+      "block.milkeysdecorate.parenthesis1_2rightblock": ") Block (Right)",
+      "tile.colorblock04.name": "Color Block Yellow",
+      "tile.road_block_04_2.name": "Road Block 04",
+      "tile.pblock.name": "P Block",
+      "block.milkeysdecoration.colorblock": "Color Block",
+      "tile.braillepanel_02.name": "Braille Panel 02",
+      "tile.road_sign_pole_02.name": "Road sign Pole 02",
+      "block.milkeysdecoration.road_block_center_thick": "Road Block Center (Thick)",
+      "item.wip_icon.name": "WIP ICON",
+      "block.milkeysdecorate.rblock": "R Block",
+      "block.milkeysdecorate.parenthesis2_2leftblock": "] Block (Left)",
+      "tile.guardrail.name": "Guardrail",
+      "tile.sblock.name": "S Block",
+      "block.milkeysdecoration.carpetfloor_block_03": "Carpetfloor Block 03",
+      "block.milkeysdecorate.cblock": "C Block",
+      "block.milkeysdecoration.carpetfloor_block_04": "Carpetfloor Block 04",
+      "block.milkeysdecoration.carpetfloor_block_01": "Carpetfloor Block 01",
+      "block.milkeysdecoration.iblock": "I Block",
+      "block.milkeysdecoration.carpetfloor_block_02": "Carpetfloor Block 02",
+      "tile.eblock.name": "E Block",
+      "block.milkeysdecorate.iblock": "I Block",
+      "tile.colorblock08.name": "Color Block Light Gray",
+      "block.milkeysdecorate.parenthesis2_1rightblock": "[ Block (Right)",
+      "tile.vendingmachine_02.name": "Vending Machine Suntory (BOSS)",
+      "block.milkeysdecorate.fourblock": "4 Block",
+      "block.milkeysdecorate.parenthesis1_1rightblock": "( Block (Right)",
+      "item.milkeysdecoration.wip_icon": "WIP ICON",
+      "block.milkeysdecorate.commarblock": ",[Comma] Block (Right)",
+      "block.milkeysdecorate.road_block_04_2": "Road Block 04-2",
+      "block.milkeysdecorate.streetlight_off": "Streetlight",
+      "tile.equalblock.name": "\u003d Block",
+      "block.milkeysdecoration.nblock": "N Block",
+      "block.milkeysdecorate.road_block_side": "Road Block Side",
+      "block.milkeysdecoration.guardrail": "Guardrail",
+      "tile.colorblock02.name": "Color Block Magenta",
+      "tile.road_block_oblique_right.name": "Road Block Oblique Right",
+      "tile.tblock.name": "T Block",
+      "block.milkeysdecoration.sidewalk_block_02": "Sidewalk Corner 01",
+      "tile.fiveblock.name": "5 Block",
+      "block.milkeysdecoration.sidewalk_block_03": "Sidewalk Corner 02",
+      "block.milkeysdecorate.yblock": "Y Block",
+      "block.milkeysdecorate.pblock": "P Block",
+      "block.milkeysdecoration.eblock": "E Block",
+      "tile.parenthesis1_2rightblock.name": ") Block (Right)",
+      "tile.colorblock11.name": "Color Block Blue",
+      "block.milkeysdecorate.vblock": "V Block",
+      "tile.colorblock14.name": "Color Block Red",
+      "block.milkeysdecorate.sidewalk_block_01": "Sidewalk",
+      "block.milkeysdecorate.sidewalk_block_02": "Sidewalk Corner",
+      "block.milkeysdecoration.sidewalk_block_01": "Sidewalk",
+      "tile.road_sign_stop_01.name": "Road sign Stop 01",
+      "tile.road_block_center.name": "Road Block Center",
+      "block.milkeysdecoration.alphabetblock": "Alphabet Block",
+      "item.milkeysdecoration.alphabetlogo": "Alphabet Logo",
+      "tile.nblock.name": "N Block",
+      "block.milkeysdecorate.sevenblock": "7 Block",
+      "block.milkeysdecorate.road_block_oblique_left": "Road Block Oblique Left",
+      "block.milkeysdecoration.road_block_oblique_left": "Road Block Oblique Left",
+      "tile.colorblock13.name": "Color Block Green",
+      "block.milkeysdecoration.sevenblock": "7 Block",
+      "tile.ublock.name": "U Block",
+      "block.milkeysdecoration.road_sign_stop_01": "Road sign Stop 01",
+      "tile.colorblock.name": "Color Block",
+      "block.milkeysdecoration.commarblock": ",[Comma] Block (Right)",
+      "block.milkeysdecoration.kblock": "K Block",
+      "block.milkeysdecoration.brailleblock_02": "Braille Block 02",
+      "block.milkeysdecoration.brailleblock_03": "Braille Block 03",
+      "block.milkeysdecoration.zeroblock": "0 Block",
+      "block.milkeysdecoration.brailleblock_01": "Braille Block 01",
+      "block.milkeysdecorate.road_block_center": "Road Block Center",
+      "block.milkeysdecorate.carpetfloor_block_01": "Carpetfloor Block 01",
+      "block.milkeysdecoration.questionblock": "? Block",
+      "block.milkeysdecorate.parenthesis2_1leftblock": "[ Block (Left)",
+      "block.milkeysdecoration.parenthesis1_1rightblock": "( Block (Right)",
+      "block.milkeysdecoration.streetlight_off": "Streetlight",
+      "block.milkeysdecorate.ablock": "A Block",
+      "block.milkeysdecoration.wblock": "W Block",
+      "tile.vblock.name": "V Block",
+      "tile.parenthesis2_1rightblock.name": "[ Block (Right)",
+      "block.milkeysdecoration.road_block_center": "Road Block Center",
+      "tile.spaceblock.name": "Space Block",
+      "block.milkeysdecoration.laptop_open": "Laptop",
+      "block.milkeysdecorate.ublock": "U Block",
+      "block.milkeysdecorate.laptop_open": "Laptop",
+      "block.milkeysdecorate.carpetfloor_block_04": "Carpetfloor Block 04",
+      "tile.colorblock12.name": "Color Block Brown",
+      "block.milkeysdecorate.carpetfloor_block_02": "Carpetfloor Block 02",
+      "block.milkeysdecorate.carpetfloor_block_03": "Carpetfloor Block 03",
+      "tile.parenthesis2_1leftblock.name": "[ Block (Left)",
+      "tile.carpetfloor_block_01.name": "Carpetfloor Block 01",
+      "block.milkeysdecoration.eightblock": "8 Block",
+      "block.milkeysdecoration.cblock": "C Block",
+      "block.milkeysdecoration.braillepanel_01": "Braille Panel 01",
+      "block.milkeysdecoration.braillepanel_02": "Braille Panel 02",
+      "tile.road_block_slab_01.name": "Road Block Slab 01",
+      "block.milkeysdecoration.hyphenblock": "- Block",
+      "block.milkeysdecorate.fiveblock": "5 Block",
+      "block.milkeysdecoration.dblock": "D Block",
+      "tile.sixblock.name": "6 Block",
+      "block.milkeysdecorate.nblock": "N Block",
+      "block.milkeysdecorate.aeon_block_01": "Aeon Block",
+      "block.milkeysdecorate.periodlblock": ".[Period] Block (Left)",
+      "tile.oblock.name": "O Block",
+      "block.milkeysdecoration.periodrblock": ".[Period] Block (Right)",
+      "tile.eightblock.name": "8 Block",
+      "block.milkeysdecorate.tblock": "T Block",
+      "block.milkeysdecorate.brailleblock_02": "Braille Block 02",
+      "block.milkeysdecoration.periodlblock": ".[Period] Block (Left)",
+      "block.milkeysdecorate.brailleblock_01": "Braille Block 01",
+      "block.milkeysdecoration.cardboard": "Cardboard Box",
+      "block.milkeysdecorate.zblock": "Z Block",
+      "block.milkeysdecorate.brailleblock_03": "Braille Block 03",
+      "block.milkeysdecoration.braillepanel_03": "Braille Panel 03",
+      "tile.road_block_side.name": "Road Block Side",
+      "tile.dblock.name": "D Block",
+      "tile.colorblock09.name": "Color Block Cyan",
+      "tile.oneblock.name": "1 Block",
+      "block.milkeysdecoration.parenthesis2_2leftblock": "] Block (Left)",
+      "tile.colorblock03.name": "Color Block Light Blue",
+      "block.milkeysdecoration.road_block_slab_01": "Road Block Slab 01",
+      "block.milkeysdecorate.bblock": "B Block",
+      "block.milkeysdecoration.jblock": "J Block",
+      "block.milkeysdecoration.pblock": "P Block",
+      "block.milkeysdecorate.periodrblock": ".[Period] Block (Right)",
+      "itemGroup.tabwiptab": "Milkey\u0027s Decoration [WIP]",
+      "block.milkeysdecoration.vblock": "V Block",
+      "block.milkeysdecorate.hblock": "H Block",
+      "tile.braillepanel_01.name": "Braille Panel 01",
+      "block.milkeysdecorate.road_sign_stop_01": "Road sign Stop 01",
+      "block.milkeysdecorate.eightblock": "8 Block",
+      "block.milkeysdecorate.road_block_slab_01": "Road Block Slab",
+      "block.milkeysdecoration.parenthesis1_2rightblock": ") Block (Right)",
+      "tile.vendingmachine_01.name": "Vending Machine Coca Cola",
+      "tile.nineblock.name": "9 Block",
+      "tile.brailleblock_03.name": "Braille Block 03",
+      "tile.commarblock.name": ",[Comma] Block (Right)",
+      "tile.road_sign_pole_01.name": "Road sign Pole 01",
+      "tile.periodrblock.name": ".[Period] Block (Right)",
+      "tile.jblock.name": "J Block",
+      "tile.questionblock.name": "? Block",
+      "tile.hyphenblock.name": "- Block",
+      "block.milkeysdecorate.qblock": "Q Block",
+      "tile.road_block_03_2.name": "Road Block 03-2",
+      "block.milkeysdecorate.fblock": "F Block",
+      "tile.sevenblock.name": "7 Block",
+      "tile.yblock.name": "Y Block",
+      "block.milkeysdecorate.road_block_oblique_right": "Road Block Oblique Right",
+      "tile.parenthesis2_2leftblock.name": "] Block (Left)",
+      "tile.colorblock05.name": "Color Block Lime",
+      "block.milkeysdecoration.commalblock": ",[Comma] Block (Left)",
+      "tile.braillepanel_03.name": "Braille Panel 03",
+      "block.milkeysdecoration.parenthesis1_1leftblock": "( Block (Left)",
+      "block.milkeysdecorate.dblock": "D Block",
+      "block.milkeysdecorate.road_sign_pole_01": "Road sign Pole 01",
+      "block.milkeysdecoration.qblock": "Q Block",
+      "block.milkeysdecoration.spaceblock": "Space Block",
+      "tile.streetlight_on.name": "Streetlight",
+      "tile.road_block_center_thick.name": "Road Block Center (Thick)",
+      "tile.colorblock07.name": "Color Block Gray",
+      "tile.carpetfloor_block_04.name": "Carpetfloor Block 04",
+      "block.milkeysdecorate.hyphenblock": "- Block",
+      "tile.road_block.name": "Road Block",
+      "block.milkeysdecoration.laptop_close": "Laptop",
+      "tile.iblock.name": "I Block",
+      "tile.zblock.name": "Z Block",
+      "block.milkeysdecorate.oblock": "O Block",
+      "block.milkeysdecorate.threeblock": "3 Block",
+      "block.milkeysdecoration.fblock": "F Block",
+      "block.milkeysdecorate.colorblock00": "Color Block White",
+      "block.milkeysdecorate.colorblock01": "Color Block Orange",
+      "tile.laptop_close.name": "Laptop",
+      "block.milkeysdecoration.ublock": "U Block",
+      "block.milkeysdecorate.colorblock02": "Color Block Magenta",
+      "block.milkeysdecorate.colorblock03": "Color Block Light Blue",
+      "block.milkeysdecorate.colorblock04": "Color Block Yellow",
+      "block.milkeysdecorate.colorblock05": "Color Block Lime",
+      "block.milkeysdecorate.colorblock06": "Color Block Pink",
+      "block.milkeysdecorate.colorblock07": "Color Block Gray",
+      "tile.sidewalk_block_03.name": "Sidewalk Corner 02",
+      "tile.road_block_04.name": "Road Block 04",
+      "block.milkeysdecoration.oblock": "O Block",
+      "tile.carpetfloor_block_02.name": "Carpetfloor Block 02",
+      "tile.wblock.name": "W Block",
+      "block.milkeysdecorate.exclamationblock": "! Block",
+      "tile.laptop_open.name": "Laptop",
+      "block.milkeysdecoration.parenthesis2_1leftblock": "[ Block (Left)",
+      "block.milkeysdecorate.commalblock": ",[Comma] Block (Left)",
+      "tile.road_sign_tomare_01.name": "Road sign Stop 01",
+      "tile.hblock.name": "H Block",
+      "tile.aeon_block.name": "Aeon Block",
+      "block.milkeysdecorate.colorblock08": "Color Block Light Gray",
+      "block.milkeysdecorate.colorblock09": "Color Block Cyan",
+      "block.milkeysdecorate.jblock": "J Block",
+      "block.milkeysdecorate.colorblock11": "Color Block Blue",
+      "block.milkeysdecoration.bblock": "B Block",
+      "block.milkeysdecorate.colorblock12": "Color Block Brown",
+      "tile.kblock.name": "K Block",
+      "block.milkeysdecorate.sblock": "S Block",
+      "block.milkeysdecorate.colorblock13": "Color Block Green",
+      "block.milkeysdecorate.mblock": "M Block",
+      "block.milkeysdecorate.colorblock14": "Color Block Red",
+      "block.milkeysdecoration.hblock": "H Block",
+      "block.milkeysdecorate.colorblock15": "Color Block Black",
+      "block.milkeysdecoration.road_sign_tomare_01": "Road sign Stop 01",
+      "tile.cardboard.name": "Cardboard Box",
+      "block.milkeysdecoration.road_block_oblique_right": "Road Block Oblique Right",
+      "block.milkeysdecorate.colorblock10": "Color Block Purple",
+      "block.milkeysdecorate.laptop_close": "Laptop",
+      "tile.exclamationblock.name": "! Block",
+      "block.milkeysdecorate.spaceblock": "Space Block",
+      "tile.zeroblock.name": "0 Block",
+      "block.milkeysdecoration.sixblock": "6 Block",
+      "block.milkeysdecoration.nineblock": "9 Block",
+      "block.milkeysdecoration.xblock": "X Block",
+      "tile.twoblock.name": "2 Block",
+      "block.milkeysdecorate.guardrail_01": "Guardrail",
+      "block.milkeysdecoration.lblock": "L Block",
+      "block.milkeysdecorate.questionblock": "? Block",
+      "block.milkeysdecoration.twoblock": "2 Block",
+      "block.milkeysdecorate.parenthesis1_2leftblock": ") Block (Left)",
+      "block.milkeysdecorate.road_block_02": "Road Block 02",
+      "block.milkeysdecoration.colorblock08": "Color Block Light Gray",
+      "block.milkeysdecorate.road_block_01": "Road Block",
+      "block.milkeysdecoration.colorblock07": "Color Block Gray",
+      "block.milkeysdecorate.road_block_04": "Road Block 04",
+      "block.milkeysdecorate.road_block_03": "Road Block 03",
+      "block.milkeysdecoration.colorblock09": "Color Block Cyan",
+      "block.milkeysdecoration.colorblock04": "Color Block Yellow",
+      "block.milkeysdecoration.road_sign_pole_01": "Road sign Pole 01",
+      "block.milkeysdecoration.streetlight_on": "Streetlight",
+      "block.milkeysdecoration.colorblock03": "Color Block Light Blue",
+      "block.milkeysdecoration.road_sign_pole_02": "Road sign Pole 02",
+      "block.milkeysdecoration.ablock": "A Block",
+      "block.milkeysdecoration.fourblock": "4 Block",
+      "block.milkeysdecoration.colorblock06": "Color Block Pink",
+      "block.milkeysdecoration.colorblock05": "Color Block Lime",
+      "item.milkeysdecorate.alphabetlogo": "Alphabet Logo",
+      "block.milkeysdecoration.colorblock00": "Color Block White",
+      "block.milkeysdecorate.wblock": "W Block",
+      "block.milkeysdecorate.cardboard_01": "Cardboard Box",
+      "block.milkeysdecoration.colorblock02": "Color Block Magenta",
+      "block.milkeysdecoration.parenthesis2_1rightblock": "[ Block (Right)",
+      "block.milkeysdecoration.colorblock01": "Color Block Orange",
+      "block.milkeysdecorate.road_block_05": "Road Block Center (Thick)",
+      "tile.sidewalk_block_01.name": "Sidewalk",
+      "block.milkeysdecoration.road_block_04_2": "Road Block 04",
+      "itemGroup.tabalphabetblocktab": "Milkey\u0027s Decoration [Alphabet/Color]",
+      "tile.streetlight_off.name": "Streetlight",
+      "tile.mblock.name": "M Block",
+      "block.milkeysdecorate.oneblock": "1 Block",
+      "tile.fblock.name": "F Block",
+      "tile.parenthesis1_2leftblock.name": ") Block (Left)",
+      "itemGroup.tabcitydecotab": "Milkey\u0027s Decoration [Modern/Other]",
+      "block.milkeysdecorate.parenthesis1_1leftblock": "( Block (Left)",
+      "tile.parenthesis2_2rightblock.name": "] Block (Right)",
+      "block.milkeysdecorate.xblock": "X Block",
+      "tile.colorblock01.name": "Color Block Orange",
+      "block.milkeysdecoration.equalblock": "\u003d Block",
+      "block.milkeysdecoration.zblock": "Z Block",
+      "block.milkeysdecoration.colorblock15": "Color Block Black",
+      "block.milkeysdecoration.road_block_03": "Road Block 03",
+      "block.milkeysdecoration.colorblock14": "Color Block Red",
+      "block.milkeysdecoration.road_block_02": "Road Block 02",
+      "block.milkeysdecorate.lblock": "L Block",
+      "block.milkeysdecoration.road_block_04": "Road Block 04",
+      "block.milkeysdecoration.colorblock11": "Color Block Blue",
+      "block.milkeysdecoration.colorblock10": "Color Block Purple",
+      "block.milkeysdecoration.vendingmachine_02": "Vending Machine Suntory (BOSS)",
+      "block.milkeysdecoration.colorblock13": "Color Block Green",
+      "block.milkeysdecoration.colorblock12": "Color Block Brown",
+      "tile.colorblock15.name": "Color Block Black",
+      "block.milkeysdecoration.vendingmachine_01": "Vending Machine Coca Cola",
+      "tile.road_block_03.name": "Road Block 03",
+      "tile.lblock.name": "L Block",
+      "block.milkeysdecorate.zeroblock": "0 Block",
+      "tile.ablock.name": "A Block",
+      "block.milkeysdecoration.oneblock": "1 Block",
+      "tile.parenthesis1_1leftblock.name": "( Block (Left)",
+      "block.milkeysdecorate.nineblock": "9 Block",
+      "tile.carpetfloor_block_03.name": "Carpetfloor Block 03",
+      "block.milkeysdecorate.road_block_02_2": "Road Block 02-2",
+      "block.milkeysdecoration.exclamationblock": "! Block",
+      "block.milkeysdecorate.alphabetblock": "Alphabet Block",
+      "tile.colorblock10.name": "Color Block Purple",
+      "block.milkeysdecoration.road_block_03_2": "Road Block 03-2",
+      "tile.parenthesis1_1rightblock.name": "( Block (Right)",
+      "block.milkeysdecorate.twoblock": "2 Block",
+      "tile.road_block_oblique_left.name": "Road Block Oblique Left",
+      "tile.road_block_02.name": "Road Block 02",
+      "block.milkeysdecoration.threeblock": "3 Block",
+      "tile.rblock.name": "R Block",
+      "tile.colorblock00.name": "Color Block White",
+      "block.milkeysdecoration.yblock": "Y Block",
+      "tile.sidewalk_block_02.name": "Sidewalk Corner 01",
+      "tile.colorblock06.name": "Color Block Pink",
+      "tile.fourblock.name": "4 Block",
+      "tile.gblock.name": "G Block",
+      "block.milkeysdecorate.eblock": "E Block",
+      "block.milkeysdecoration.mblock": "M Block",
+      "block.milkeysdecorate.kblock": "K Block",
+      "block.milkeysdecorate.colorblock": "Color Block",
+      "tile.brailleblock_01.name": "Braille Block 01",
+      "item.alphabetlogo.name": "Alphabet Logo",
+      "tile.xblock.name": "X Block",
+      "block.milkeysdecoration.parenthesis1_2leftblock": ") Block (Left)",
+      "block.milkeysdecorate.equalblock": "\u003d Block",
+      "block.milkeysdecoration.sblock": "S Block",
+      "block.milkeysdecoration.parenthesis2_2rightblock": "] Block (Right)"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "milkeysdecoration",
+    "modName": "Milkey\u0027s Decoration",
+    "version": "2.0.0-alpha.1+201001",
+    "description": "Version changelog: http://bit.ly/midecl-v2",
+    "author": "Milkeyyy",
+    "websiteURL": "http://bit.ly/midews",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created by Milkeyyy using MCreator - https://mcreator.net/about",
+    "modElementsPackage": "mod.milkeyyy.milkeysdecoration",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "milkeysdecoration:blocks/park_fence_01",
+    "particle": "milkeysdecoration:blocks/park_fence_01"
+  }
+}

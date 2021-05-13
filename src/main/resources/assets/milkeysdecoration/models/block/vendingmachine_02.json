@@ -1,0 +1,11 @@
+{
+  "parent": "milkeysdecoration:custom/vendingmachine_suntory-boss_01_v1",
+  "textures": {
+    "all": "milkeysdecoration:blocks/vendingmachine_suntory-boss_01",
+    "particle": "milkeysdecoration:blocks/vendingmachine_suntory-boss_01",
+    "Side": "milkeysdecoration:blocks/cocacola_logo_x90_500",
+    "Front": "milkeysdecoration:blocks/vendingmachine_front_suntory-boss_v1_250x250",
+    "Back": "milkeysdecoration:blocks/vendingmachine_suntory-boss_01_back",
+    "Up_Down": "milkeysdecoration:blocks/vendingmachine_suntory-boss_01"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "roadsign_pole_01": "roadsign_pole_01"
+      },
+      "name": "default"
+    }
+  }
+}

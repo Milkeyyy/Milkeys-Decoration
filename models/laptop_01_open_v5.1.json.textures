@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "moretexture": "moretexture",
+        "laptop_01-side_silver": "laptop_01-side_silver",
+        "win10_128x128_03": "win10_128x128_03",
+        "laptop_01-top_silver": "laptop_01-top_silver"
+      },
+      "name": "default"
+    }
+  }
+}

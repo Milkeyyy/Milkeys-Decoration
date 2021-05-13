@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "laptop_01-side_silver": "laptop_01-side_silver",
+        "laptop_01-top_silver": "laptop_01-top_silver"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "roadsign_pole_01": "roadsign_pole_01",
+        "moretexture_2": "moretexture_3"
+      },
+      "name": "default"
+    }
+  }
+}

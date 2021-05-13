@@ -1,0 +1,9 @@
+{
+  "parent": "milkeysdecoration:custom/streetlight_04",
+  "textures": {
+    "all": "milkeysdecoration:blocks/moretexture_2",
+    "particle": "milkeysdecoration:blocks/moretexture_2",
+    "roadsign_pole_01": "milkeysdecoration:blocks/roadsign_pole_01",
+    "moretexture_2": "milkeysdecoration:blocks/moretexture_2"
+  }
+}

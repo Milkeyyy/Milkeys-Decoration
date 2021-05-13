@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "milkeysdecoration:blocks/road_block_01",
+    "up": "milkeysdecoration:blocks/road_block_white_thick",
+    "north": "milkeysdecoration:blocks/road_block_01",
+    "east": "milkeysdecoration:blocks/road_block_01",
+    "south": "milkeysdecoration:blocks/road_block_01",
+    "west": "milkeysdecoration:blocks/road_block_01",
+    "particle": "milkeysdecoration:blocks/road_block_01"
+  }
+}

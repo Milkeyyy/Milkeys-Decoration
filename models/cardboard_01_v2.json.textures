@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "cardboard_01_top_2": "cardboard_01_top_2",
+        "cardboard_01_top": "cardboard_01_top",
+        "cardboard_01": "cardboard_01"
+      },
+      "name": "default"
+    }
+  }
+}

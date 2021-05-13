@@ -1,0 +1,9 @@
+{
+  "parent": "milkeysdecoration:custom/laptop_01_v5.1",
+  "textures": {
+    "all": "milkeysdecoration:blocks/laptop_01-side_silver",
+    "particle": "milkeysdecoration:blocks/laptop_01-side_silver",
+    "laptop_01-side_silver": "milkeysdecoration:blocks/laptop_01-side_silver",
+    "laptop_01-top_silver": "milkeysdecoration:blocks/laptop_01-top_silver"
+  }
+}

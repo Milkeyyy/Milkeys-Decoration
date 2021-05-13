@@ -1,0 +1,9 @@
+{
+  "parent": "milkeysdecoration:custom/sidewalk_02_v4_corner",
+  "textures": {
+    "all": "milkeysdecoration:blocks/road_block_sidewalk_01_v3_side",
+    "particle": "milkeysdecoration:blocks/road_block_sidewalk_01_v3_side",
+    "road_block_sidewalk_01_v3_side": "milkeysdecoration:blocks/road_block_sidewalk_01_v3_side",
+    "road_block_sidewalk_01_side_01": "milkeysdecoration:blocks/road_block_sidewalk_01_side_01"
+  }
+}

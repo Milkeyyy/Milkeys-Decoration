@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "tenjipanel_02-x64": "tenjipanel_02-x32-v2",
+        "tenji_01_side": "tenji_02_side"
+      },
+      "name": "default"
+    }
+  }
+}

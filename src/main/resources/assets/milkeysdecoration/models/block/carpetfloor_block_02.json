@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "milkeysdecoration:blocks/carpetfloor_02",
+    "particle": "milkeysdecoration:blocks/carpetfloor_02"
+  }
+}

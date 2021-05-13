@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "milkeysdecoration:block/laptop_open"
+    },
+    "facing=east": {
+      "model": "milkeysdecoration:block/laptop_open",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "milkeysdecoration:block/laptop_open",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "milkeysdecoration:block/laptop_open",
+      "y": 270
+    }
+  }
+}

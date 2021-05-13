@@ -1,0 +1,11 @@
+{
+  "parent": "milkeysdecoration:custom/vendingmachine_cocacola_01_v3",
+  "textures": {
+    "all": "milkeysdecoration:blocks/red_32x32",
+    "particle": "milkeysdecoration:blocks/red_32x32",
+    "Side": "milkeysdecoration:blocks/cocacola_logo_90x90_128",
+    "Front": "milkeysdecoration:blocks/vendingmachine_front_red_v2_144x144",
+    "Back": "milkeysdecoration:blocks/vendingmachine_cocacola_01_back",
+    "Up_Down": "milkeysdecoration:blocks/vendingmachine_cocacola_01"
+  }
+}

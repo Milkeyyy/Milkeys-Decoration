@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "moretexture": "moretexture",
+        "moretexture_2": "moretexture_2",
+        "road_block_01": "road_block_01"
+      },
+      "name": "default"
+    }
+  }
+}

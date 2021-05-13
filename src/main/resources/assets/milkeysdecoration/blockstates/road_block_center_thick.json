@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "milkeysdecoration:block/road_block_center_thick"
+    },
+    "facing=east": {
+      "model": "milkeysdecoration:block/road_block_center_thick",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "milkeysdecoration:block/road_block_center_thick",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "milkeysdecoration:block/road_block_center_thick",
+      "y": 270
+    }
+  }
+}

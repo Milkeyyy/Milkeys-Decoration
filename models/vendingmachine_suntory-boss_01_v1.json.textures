@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Side": "cocacola_logo_x90_500",
+        "Front": "vendingmachine_front_suntory-boss_v1_250x250",
+        "Back": "vendingmachine_suntory-boss_01_back",
+        "Up_Down": "vendingmachine_suntory-boss_01"
+      },
+      "name": "default"
+    }
+  }
+}

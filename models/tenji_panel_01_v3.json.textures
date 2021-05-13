@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "tenji_02_side": "tenji_01_side",
+        "tenji_01_side": "tenji_02_side",
+        "tenji_g_side": "tenji_g_side"
+      },
+      "name": "default"
+    }
+  }
+}

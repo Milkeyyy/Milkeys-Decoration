@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "milkeysdecoration:block/braillepanel_02"
+    },
+    "facing=east": {
+      "model": "milkeysdecoration:block/braillepanel_02",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "milkeysdecoration:block/braillepanel_02",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "milkeysdecoration:block/braillepanel_02",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "milkeysdecoration:block/braillepanel_02",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "milkeysdecoration:block/braillepanel_02",
+      "x": 90
+    }
+  }
+}

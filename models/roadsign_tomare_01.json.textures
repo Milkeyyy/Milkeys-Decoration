@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "roadsign_pole_back_jp_02": "roadsign_pole_back_jp_02",
+        "roadsign_pole_01": "roadsign_pole_01",
+        "roadsign_tomare_x64_01": "roadsign_tomare_x64_01"
+      },
+      "name": "default"
+    }
+  }
+}

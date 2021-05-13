@@ -1,0 +1,239 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "White",
+          "onClick": {
+            "name": "Colorblockgui00"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "White",
+          "x": 131,
+          "y": 81
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Orange",
+          "onClick": {
+            "name": "Colorblockgui01"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "Orange",
+          "x": 131,
+          "y": 101
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Magenta",
+          "onClick": {
+            "name": "Colorblockgui02"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "Magenta",
+          "x": 131,
+          "y": 121
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "L Blue",
+          "onClick": {
+            "name": "Colorblockgui03"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "L Blue",
+          "x": 131,
+          "y": 141
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Yellow",
+          "onClick": {
+            "name": "Colorblockgui04"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "Yellow",
+          "x": 171,
+          "y": 81
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Pink",
+          "onClick": {
+            "name": "Colorblockgui06"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "Pink",
+          "x": 171,
+          "y": 121
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Gray",
+          "onClick": {
+            "name": "Colorblockgui07"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "Gray",
+          "x": 171,
+          "y": 141
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "L Gray",
+          "onClick": {
+            "name": "Colorblockgui08"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "L Gray",
+          "x": 216,
+          "y": 81
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Cyan",
+          "onClick": {
+            "name": "Colorblockgui09"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "Cyan",
+          "x": 216,
+          "y": 101
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Purple",
+          "onClick": {
+            "name": "Colorblockgui10"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "Purple",
+          "x": 216,
+          "y": 121
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Blue",
+          "onClick": {
+            "name": "Colorblockgui11"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "Blue",
+          "x": 216,
+          "y": 141
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Brown",
+          "onClick": {
+            "name": "Colorblockgui12"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "Brown",
+          "x": 256,
+          "y": 81
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Green",
+          "onClick": {
+            "name": "Colorblockgui13"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "Green",
+          "x": 256,
+          "y": 101
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Red",
+          "onClick": {
+            "name": "Colorblockgui14"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "Red",
+          "x": 256,
+          "y": 121
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Black",
+          "onClick": {
+            "name": "Colorblockgui15"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "Black",
+          "x": 256,
+          "y": 141
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Lime",
+          "onClick": {
+            "name": "Colorblockgui05"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "Lime",
+          "x": 171,
+          "y": 101
+        }
+      }
+    ]
+  }
+}

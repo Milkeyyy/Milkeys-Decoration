@@ -1,0 +1,3559 @@
+{
+  "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+  "display": {
+    "gui": {
+      "rotation": [
+        30,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        315,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        315,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    }
+  },
+  "elements": [
+    {
+      "name": "Cube",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "up": {
+          "texture": "#tenji_g_side",
+          "uv": [
+            0,
+            0,
+            15,
+            16
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        1.5,
+        16.1,
+        1.5
+      ],
+      "to": [
+        2.5,
+        16.2,
+        2.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        3.4,
+        16.1,
+        1.5
+      ],
+      "to": [
+        4.4,
+        16.2,
+        2.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        5.4,
+        16.1,
+        1.5
+      ],
+      "to": [
+        6.4,
+        16.2,
+        2.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        7.5,
+        16.1,
+        1.5
+      ],
+      "to": [
+        8.5,
+        16.2,
+        2.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        9.5,
+        16.1,
+        1.5
+      ],
+      "to": [
+        10.5,
+        16.2,
+        2.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        11.5,
+        16.1,
+        1.5
+      ],
+      "to": [
+        12.5,
+        16.2,
+        2.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        13.5,
+        16.1,
+        1.5
+      ],
+      "to": [
+        14.5,
+        16.2,
+        2.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        1.5,
+        16.1,
+        3.5
+      ],
+      "to": [
+        2.5,
+        16.2,
+        4.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        3.4,
+        16.1,
+        3.5
+      ],
+      "to": [
+        4.4,
+        16.2,
+        4.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        5.4,
+        16.1,
+        3.5
+      ],
+      "to": [
+        6.4,
+        16.2,
+        4.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        7.5,
+        16.1,
+        3.5
+      ],
+      "to": [
+        8.5,
+        16.2,
+        4.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        9.5,
+        16.1,
+        3.5
+      ],
+      "to": [
+        10.5,
+        16.2,
+        4.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        11.5,
+        16.1,
+        3.5
+      ],
+      "to": [
+        12.5,
+        16.2,
+        4.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        13.5,
+        16.1,
+        3.5
+      ],
+      "to": [
+        14.5,
+        16.2,
+        4.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        1.5,
+        16.1,
+        5.5
+      ],
+      "to": [
+        2.5,
+        16.2,
+        6.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        3.4,
+        16.1,
+        5.5
+      ],
+      "to": [
+        4.4,
+        16.2,
+        6.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        5.4,
+        16.1,
+        5.5
+      ],
+      "to": [
+        6.4,
+        16.2,
+        6.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        7.5,
+        16.1,
+        5.5
+      ],
+      "to": [
+        8.5,
+        16.2,
+        6.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        9.5,
+        16.1,
+        5.5
+      ],
+      "to": [
+        10.5,
+        16.2,
+        6.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        11.5,
+        16.1,
+        5.5
+      ],
+      "to": [
+        12.5,
+        16.2,
+        6.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        13.5,
+        16.1,
+        5.5
+      ],
+      "to": [
+        14.5,
+        16.2,
+        6.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        1.5,
+        16.1,
+        7.5
+      ],
+      "to": [
+        2.5,
+        16.2,
+        8.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        3.4,
+        16.1,
+        7.5
+      ],
+      "to": [
+        4.4,
+        16.2,
+        8.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        5.4,
+        16.1,
+        7.5
+      ],
+      "to": [
+        6.4,
+        16.2,
+        8.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        7.5,
+        16.1,
+        7.5
+      ],
+      "to": [
+        8.5,
+        16.2,
+        8.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        9.5,
+        16.1,
+        7.5
+      ],
+      "to": [
+        10.5,
+        16.2,
+        8.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        11.5,
+        16.1,
+        7.5
+      ],
+      "to": [
+        12.5,
+        16.2,
+        8.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        13.5,
+        16.1,
+        7.5
+      ],
+      "to": [
+        14.5,
+        16.2,
+        8.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        1.5,
+        16.1,
+        9.5
+      ],
+      "to": [
+        2.5,
+        16.2,
+        10.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        3.4,
+        16.1,
+        9.5
+      ],
+      "to": [
+        4.4,
+        16.2,
+        10.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        5.4,
+        16.1,
+        9.5
+      ],
+      "to": [
+        6.4,
+        16.2,
+        10.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        7.5,
+        16.1,
+        9.5
+      ],
+      "to": [
+        8.5,
+        16.2,
+        10.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        9.5,
+        16.1,
+        9.5
+      ],
+      "to": [
+        10.5,
+        16.2,
+        10.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        11.5,
+        16.1,
+        9.5
+      ],
+      "to": [
+        12.5,
+        16.2,
+        10.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        13.5,
+        16.1,
+        9.5
+      ],
+      "to": [
+        14.5,
+        16.2,
+        10.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        1.5,
+        16.1,
+        11.5
+      ],
+      "to": [
+        2.5,
+        16.2,
+        12.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        3.4,
+        16.1,
+        11.5
+      ],
+      "to": [
+        4.4,
+        16.2,
+        12.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        5.4,
+        16.1,
+        11.5
+      ],
+      "to": [
+        6.4,
+        16.2,
+        12.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        7.5,
+        16.1,
+        11.5
+      ],
+      "to": [
+        8.5,
+        16.2,
+        12.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        9.5,
+        16.1,
+        11.5
+      ],
+      "to": [
+        10.5,
+        16.2,
+        12.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        11.5,
+        16.1,
+        11.5
+      ],
+      "to": [
+        12.5,
+        16.2,
+        12.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        13.5,
+        16.1,
+        11.5
+      ],
+      "to": [
+        14.5,
+        16.2,
+        12.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        1.5,
+        16.1,
+        13.5
+      ],
+      "to": [
+        2.5,
+        16.2,
+        14.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        3.4,
+        16.1,
+        13.5
+      ],
+      "to": [
+        4.4,
+        16.2,
+        14.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        5.4,
+        16.1,
+        13.5
+      ],
+      "to": [
+        6.4,
+        16.2,
+        14.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        7.5,
+        16.1,
+        13.5
+      ],
+      "to": [
+        8.5,
+        16.2,
+        14.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        9.5,
+        16.1,
+        13.5
+      ],
+      "to": [
+        10.5,
+        16.2,
+        14.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        11.5,
+        16.1,
+        13.5
+      ],
+      "to": [
+        12.5,
+        16.2,
+        14.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        13.5,
+        16.1,
+        13.5
+      ],
+      "to": [
+        14.5,
+        16.2,
+        14.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#tenji_02_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#tenji_01_side",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  ]
+}

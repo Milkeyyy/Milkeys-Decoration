@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "milkeysdecoration:blocks/_colorblock_x16_purple",
+    "up": "milkeysdecoration:blocks/_colorblock_x16_purple",
+    "north": "milkeysdecoration:blocks/_colorblock_x16_purple",
+    "east": "milkeysdecoration:blocks/_colorblock_x16_purple",
+    "south": "milkeysdecoration:blocks/_colorblock_x16_purple",
+    "west": "milkeysdecoration:blocks/_colorblock_x16_purple",
+    "particle": "milkeysdecoration:blocks/_colorblock_x16_purple"
+  }
+}

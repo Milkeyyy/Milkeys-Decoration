@@ -1,0 +1,757 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 200,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "A",
+          "onClick": {
+            "name": "AlphabetblockguiAblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "A",
+          "x": 141,
+          "y": 102
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "B",
+          "onClick": {
+            "name": "AlphabetblockguiBblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "B",
+          "x": 186,
+          "y": 120
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "C",
+          "onClick": {
+            "name": "AlphabetblockguiCblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "C",
+          "x": 166,
+          "y": 120
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "D",
+          "onClick": {
+            "name": "AlphabetblockguiDblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "D",
+          "x": 161,
+          "y": 102
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "E",
+          "onClick": {
+            "name": "AlphabetblockguiEblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "E",
+          "x": 156,
+          "y": 84
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "F",
+          "onClick": {
+            "name": "AlphabetblockguiFblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "F",
+          "x": 171,
+          "y": 102
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "G",
+          "onClick": {
+            "name": "AlphabetblockguiGblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "G",
+          "x": 181,
+          "y": 102
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "H",
+          "onClick": {
+            "name": "AlphabetblockguiHblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "H",
+          "x": 191,
+          "y": 102
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "I",
+          "onClick": {
+            "name": "AlphabetblockguiIblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "I",
+          "x": 206,
+          "y": 84
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "J",
+          "onClick": {
+            "name": "AlphabetblockguiJblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "J",
+          "x": 201,
+          "y": 102
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "K",
+          "onClick": {
+            "name": "AlphabetblockguiKblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "K",
+          "x": 211,
+          "y": 102
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "L",
+          "onClick": {
+            "name": "AlphabetblockguiLblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "L",
+          "x": 221,
+          "y": 102
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "M",
+          "onClick": {
+            "name": "AlphabetblockguiMblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "M",
+          "x": 206,
+          "y": 120
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "N",
+          "onClick": {
+            "name": "AlphabetblockguiNblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "N",
+          "x": 196,
+          "y": 120
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "O",
+          "onClick": {
+            "name": "AlphabetblockguiOblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "O",
+          "x": 216,
+          "y": 84
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "P",
+          "onClick": {
+            "name": "AlphabetblockguiPblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "P",
+          "x": 226,
+          "y": 84
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Q",
+          "onClick": {
+            "name": "AlphabetblockguiQblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "Q",
+          "x": 136,
+          "y": 84
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "R",
+          "onClick": {
+            "name": "AlphabetblockguiRblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "R",
+          "x": 166,
+          "y": 84
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "S",
+          "onClick": {
+            "name": "AlphabetblockguiSblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "S",
+          "x": 151,
+          "y": 102
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "T",
+          "onClick": {
+            "name": "AlphabetblockguiTblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "T",
+          "x": 176,
+          "y": 84
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "U",
+          "onClick": {
+            "name": "AlphabetblockguiUblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "U",
+          "x": 196,
+          "y": 84
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "V",
+          "onClick": {
+            "name": "AlphabetblockguiVblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "V",
+          "x": 176,
+          "y": 120
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "W",
+          "onClick": {
+            "name": "AlphabetblockguiWblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "W",
+          "x": 146,
+          "y": 84
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "X",
+          "onClick": {
+            "name": "AlphabetblockguiXblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "X",
+          "x": 156,
+          "y": 120
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Y",
+          "onClick": {
+            "name": "AlphabetblockguiYblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "Y",
+          "x": 186,
+          "y": 84
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Z",
+          "onClick": {
+            "name": "AlphabetblockguiZblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "Z",
+          "x": 146,
+          "y": 120
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": ". ",
+          "onClick": {
+            "name": "AlphabetblockguiPeriodL"
+          },
+          "width": 10,
+          "height": 20,
+          "name": ". ",
+          "x": 226,
+          "y": 144
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": " .",
+          "onClick": {
+            "name": "AlphabetblockguiPeriodR"
+          },
+          "width": 10,
+          "height": 20,
+          "name": " .",
+          "x": 236,
+          "y": 144
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "1",
+          "onClick": {
+            "name": "AlphabetblockguiOneblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "1",
+          "x": 131,
+          "y": 66
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "2",
+          "onClick": {
+            "name": "AlphabetblockguiTwoblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "2",
+          "x": 141,
+          "y": 66
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "3",
+          "onClick": {
+            "name": "AlphabetblockguiThreeblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "3",
+          "x": 151,
+          "y": 66
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "4",
+          "onClick": {
+            "name": "AlphabetblockguiFourblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "4",
+          "x": 161,
+          "y": 66
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "5",
+          "onClick": {
+            "name": "AlphabetblockguiFiveblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "5",
+          "x": 171,
+          "y": 66
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "6",
+          "onClick": {
+            "name": "AlphabetblockguiSixblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "6",
+          "x": 181,
+          "y": 66
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "7",
+          "onClick": {
+            "name": "AlphabetblockguiSevenblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "7",
+          "x": 191,
+          "y": 66
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "8",
+          "onClick": {
+            "name": "AlphabetblockguiEightblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "8",
+          "x": 201,
+          "y": 66
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "9",
+          "onClick": {
+            "name": "AlphabetblockguiNineblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "9",
+          "x": 211,
+          "y": 66
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "-",
+          "onClick": {
+            "name": "AlphabetblockguiHyphenblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "-",
+          "x": 286,
+          "y": 144
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "      ",
+          "onClick": {
+            "name": "AlphabetblockguiSpaceblock"
+          },
+          "width": 60,
+          "height": 20,
+          "name": "      ",
+          "x": 151,
+          "y": 142
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "!",
+          "onClick": {
+            "name": "AlphabetblockguiExclamationblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "!",
+          "x": 266,
+          "y": 144
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "?",
+          "onClick": {
+            "name": "AlphabetblockguiQuestionblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "?",
+          "x": 276,
+          "y": 144
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "=",
+          "onClick": {
+            "name": "AlphabetblockguiEqualblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "=",
+          "x": 296,
+          "y": 144
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "0",
+          "onClick": {
+            "name": "AlphabetblockguiZeroblock"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "0",
+          "x": 221,
+          "y": 66
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "( ",
+          "onClick": {
+            "name": "AlphabetblockguiParenthesis1_1"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "( ",
+          "x": 226,
+          "y": 162
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": " (",
+          "onClick": {
+            "name": "AlphabetblockguiParenthesis1_1R"
+          },
+          "width": 10,
+          "height": 20,
+          "name": " (",
+          "x": 246,
+          "y": 162
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": ") ",
+          "onClick": {
+            "name": "AlphabetblockguiParenthesis1_2L"
+          },
+          "width": 10,
+          "height": 20,
+          "name": ") ",
+          "x": 256,
+          "y": 162
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": " )",
+          "onClick": {
+            "name": "AlphabetblockguiParenthesis1_2R"
+          },
+          "width": 10,
+          "height": 20,
+          "name": " )",
+          "x": 236,
+          "y": 162
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "[ ",
+          "onClick": {
+            "name": "AlphabetblockguiParenthesis2_1L"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "[ ",
+          "x": 266,
+          "y": 162
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": " [",
+          "onClick": {
+            "name": "AlphabetblockguiParenthesis2_1R"
+          },
+          "width": 10,
+          "height": 20,
+          "name": " [",
+          "x": 286,
+          "y": 162
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "] ",
+          "onClick": {
+            "name": "AlphabetblockguiParenthesis2_2L"
+          },
+          "width": 10,
+          "height": 20,
+          "name": "] ",
+          "x": 296,
+          "y": 162
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": " ]",
+          "onClick": {
+            "name": "AlphabetblockguiParenthesis2_2R"
+          },
+          "width": 10,
+          "height": 20,
+          "name": " ]",
+          "x": 276,
+          "y": 162
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": ", ",
+          "onClick": {
+            "name": "AlphabetblockcommaL"
+          },
+          "width": 10,
+          "height": 20,
+          "name": ", ",
+          "x": 246,
+          "y": 144
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": " ,",
+          "onClick": {
+            "name": "AlphabetblockguicommaR"
+          },
+          "width": 10,
+          "height": 20,
+          "name": " ,",
+          "x": 256,
+          "y": 144
+        }
+      }
+    ]
+  }
+}

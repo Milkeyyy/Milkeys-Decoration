@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "milkeysdecoration:blocks/1_16-16",
+    "particle": "milkeysdecoration:blocks/1_16-16"
+  }
+}

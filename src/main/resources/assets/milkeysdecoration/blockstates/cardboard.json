@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "milkeysdecoration:block/cardboard"
+    },
+    "facing=east": {
+      "model": "milkeysdecoration:block/cardboard",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "milkeysdecoration:block/cardboard",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "milkeysdecoration:block/cardboard",
+      "y": 270
+    }
+  }
+}

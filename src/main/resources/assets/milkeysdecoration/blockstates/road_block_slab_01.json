@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "milkeysdecoration:block/road_block_slab_01"
+    },
+    "type=top": {
+      "model": "milkeysdecoration:block/road_block_slab_01_top"
+    },
+    "type=double": {
+      "model": "milkeysdecoration:block/road_block_slab_01_full"
+    }
+  }
+}
